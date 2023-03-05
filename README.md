@@ -1,6 +1,8 @@
 ## Features:
-- [X] Pdf To Text
 - [X] Text To Pdf
+
+## Soon:
+- [X] Pdf To Text
 - [X] Pdf Merger
 - [X] Pdf Spliter
 - [X] Pdf Rotater
