@@ -57,6 +57,7 @@ If you find my PDF-Tools project helpful, you can support its continued developm
 </table>
 
 
+
 ---
 
 - 🌟 Giving the project a ⭐️ on [GitHub](https://github.com/im-py-dev/PDF-Tools)
